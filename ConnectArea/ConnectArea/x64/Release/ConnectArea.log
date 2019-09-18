@@ -1,0 +1,69 @@
+﻿  InitMyForm.cpp
+  main.cpp
+  MyForm.cpp
+MyForm.cpp(57): warning C4101: “m”: 未引用的局部变量
+MyForm.cpp(57): warning C4101: “n”: 未引用的局部变量
+  正在生成代码...
+c:\opencv320\opencv\build\include\opencv2\core\cvstd.hpp(596): warning C4793: “cv::String::String”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: “cv::cuda::GpuMat::GpuMat”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: “cv::cuda::HostMem::HostMem”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\mat.inl.hpp(413): warning C4793: “cv::Mat::Mat”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\mat.inl.hpp(703): warning C4793: “cv::Mat::release”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\mat.inl.hpp(1929): warning C4793: “cv::SparseMat::addref”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\mat.inl.hpp(3530): warning C4793: “cv::UMat::addref”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: “cv::detail::PtrOwner::incRef”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: “cv::detail::PtrOwner::decRef”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\cvstd.hpp(673): warning C4793: “cv::String::operator=”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\cvstd.hpp(596): warning C4793: “cv::String::String”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: “cv::cuda::GpuMat::GpuMat”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: “cv::cuda::HostMem::HostMem”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\mat.inl.hpp(413): warning C4793: “cv::Mat::Mat”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\mat.inl.hpp(703): warning C4793: “cv::Mat::release”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\mat.inl.hpp(1929): warning C4793: “cv::SparseMat::addref”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\mat.inl.hpp(3530): warning C4793: “cv::UMat::addref”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: “cv::detail::PtrOwner::incRef”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: “cv::detail::PtrOwner::decRef”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\cvstd.hpp(673): warning C4793: “cv::String::operator=”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\cvstd.hpp(596): warning C4793: “cv::String::String”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\cuda.inl.hpp(105): warning C4793: “cv::cuda::GpuMat::GpuMat”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\cuda.inl.hpp(395): warning C4793: “cv::cuda::HostMem::HostMem”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\mat.inl.hpp(413): warning C4793: “cv::Mat::Mat”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\mat.inl.hpp(703): warning C4793: “cv::Mat::release”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\mat.inl.hpp(1929): warning C4793: “cv::SparseMat::addref”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\mat.inl.hpp(3530): warning C4793: “cv::UMat::addref”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: “cv::detail::PtrOwner::incRef”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: “cv::detail::PtrOwner::decRef”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+c:\opencv320\opencv\build\include\opencv2\core\cvstd.hpp(673): warning C4793: “cv::String::operator=”: 编译为本机的函数:
+  	托管代码中发现一个不受支持的内部函数
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+  ConnectArea.vcxproj -> E:\ConnectArea\x64\Release\ConnectArea.exe
+  ConnectArea.vcxproj -> E:\ConnectArea\x64\Release\ConnectArea.pdb (Full PDB)
